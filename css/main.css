@@ -1,0 +1,112 @@
+.images{
+    width:180px;
+    height:180px;
+
+    
+}
+.circular{
+    width:250px;
+    height:250px;
+    
+}
+
+.book{
+    position: relative;
+    background-image: url('../images/Untitled-2.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    background-color: blue;
+}
+
+.landing{
+    background-image: url('../images/Untitled-5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blue;
+    background-blend-mode: lighten;
+    background-origin: border-box;
+}
+
+footer{
+    background-image: url('../images/Untitled-4.png');
+    background-attachment: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: lighten;
+    background-color: blue;
+}
+
+li{
+    list-style-type: none;
+}
+
+.bby{
+    border: 1px solid blue;
+    border-radius: 50px;
+    color: blue;
+    background-color: white;
+}
+
+.bby:hover{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: transparent;
+}
+.img{
+    height: 80px;
+    width:100px;
+}
+
+.icons{
+    width: 45px;
+    height: 45px;
+}
+.fa{
+    padding: 1px;
+}
+.fa-facebook,.fa-twitter,.fa-instagram{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}
+.fa-facebook:hover{
+    background-color:  rgb(52, 163, 253);
+    color: white;
+    transition: .3s ease-in-out;
+}
+
+.fa-twitter:hover{
+    background-color:  rgb(32, 59, 218);
+    color: white;
+    transition: .3s ease-in-out;
+
+}
+
+.fa-instagram:hover{
+    background-color:  rgb(228, 52, 52);
+    color: white;
+    transition: .3s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
